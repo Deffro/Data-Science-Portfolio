@@ -40,3 +40,7 @@ Python code on how to transform nominal and ordinal variables to integers.
 
 - Ordinal Encoding with LabelEncoder, Panda's Factorize, and Panda's Map
 - Nominal Encoding with One-Hot Encoding and Binary Encoding
+
+## Feature Engineering with Dates
+
+In [this](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Feature%20Engineering%20with%20Dates.ipynb) tutorial I present the datetime format that Pandas provides to handle datetime features. In the end I create a function that generates 23 features from a single one.
