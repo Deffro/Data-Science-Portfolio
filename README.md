@@ -42,6 +42,16 @@ Python code on how to transform nominal and ordinal variables to integers.
 - Ordinal Encoding with LabelEncoder, Panda's Factorize, and Panda's Map
 - Nominal Encoding with One-Hot Encoding and Binary Encoding
 
+## &#x1F4D9; Visualizations with Seaborn
+
+Every plot that *seaborn* provides is here with examples in a real dataset.
+
+[This](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Visualizations%20with%20Seaborn.ipynb) notebook includes:
+- Theory on Skewness and Kurtosis
+- Univariate plots. [Histogram, KDE, Box plot, Count plot, Pie chart]
+- Bivariate plots. [Scatter plot, Join plot, Reg plot, KDE plot, Hex plot, Line plot, Bar plot, Violin plot, Boxen plot, Strip plot]
+- Multivariate plots. [Correlation Heatmap, Pair plot, Scatter plot, Line plot, Bar plot]
+
 ## &#x1F4D9; Feature Engineering with Dates
 
 In [this](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Feature%20Engineering%20with%20Dates.ipynb) tutorial I present the datetime format that Pandas provides to handle datetime features. In the end I create a function that generates 23 features from a single one.
