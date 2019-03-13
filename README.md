@@ -18,7 +18,6 @@ After reading (and practising) [this](https://github.com/Deffro/Data-Science-Por
 - Retrieve statistics for data
 - Sort and group data
 - Manipulate data
-- Happy learning!
 
 ## &#x1F4D9; Normalization and Standardization
 
