@@ -5,7 +5,9 @@ More notebooks will be added as I learn things and devote time to write about th
 
 Below it is a summary of them.
 
+## :fire: Exploratory Data Analysis for the popular Battle Royale game PUBG
 
+This is a very popular [kaggle kernel](https://www.kaggle.com/deffro/eda-is-fun) with more than 800 upvotes and 30.000 views.
 
 ## &#x1F4D9; Pandas Tutorial
 
