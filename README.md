@@ -71,6 +71,6 @@ Every plot that *seaborn* provides is here with examples in a real dataset.
 - Bivariate plots. [Scatter plot, Join plot, Reg plot, KDE plot, Hex plot, Line plot, Bar plot, Violin plot, Boxen plot, Strip plot]
 - Multivariate plots. [Correlation Heatmap, Pair plot, Scatter plot, Line plot, Bar plot]
 
-## &#x1F4D9; Feature Engineering with Dates
+## :clock1030: Feature Engineering with Dates
 
 In [this](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Feature%20Engineering%20with%20Dates.ipynb) tutorial I present the datetime format that Pandas provides to handle datetime features. In the end I create a function that generates 23 features from a single one.
