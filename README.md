@@ -7,7 +7,7 @@ Below it is a summary of them.
 
 ## :fire: Exploratory Data Analysis for the popular Battle Royale game PUBG
 
-This is a very popular [kaggle kernel](https://www.kaggle.com/deffro/eda-is-fun) with more than 800 upvotes and 30.000 views, with which I won the 1st prize on the best kernel in that Kaggle competition.
+This is a very popular [kaggle kernel](https://www.kaggle.com/deffro/eda-is-fun) with more than 800 upvotes and 30.000 views, with which I won the **1st prize** on the best kernel in that Kaggle competition.
 
 ## :house_with_garden: Cluster Neighborhoods
 
