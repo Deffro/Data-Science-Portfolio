@@ -9,6 +9,23 @@ Below it is a summary of them.
 
 This is a very popular [kaggle kernel](https://www.kaggle.com/deffro/eda-is-fun) with more than 800 upvotes and 30.000 views, with which I won the 1st prize on the best kernel in that Kaggle competition.
 
+## :house_with_garden: Cluster Neighborhoods
+
+[This](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Cluster%20Neighborhoods.ipynb) is a project that aims to help practicing some technologies and Data Science.
+
+Let's suppose that you live in Toronto, Canada (you can do this for every city that has enough data) and you found a better job. This job is located in the other side of the city and you decide that you need to re-locate closer. You really like your neighborhood though, and you want to find a similar one.
+
+This code uses the venues of each neighborhood as features in a clustering algorithm (k-means) and finds similar neighborhoods.
+
+Things that were used
+
+1. **Beautiful Soup** - Package that lets us extract the content of a web page into simple text
+2. **Json** - Handle json files and transform them into a pandas dataframe
+3. **Geocode** - Package that converts an address to its coordinates
+4. **Scikit Learn** - Machine learning package in order to use clustering
+5. **Folium** - Package to create spatial maps. NOTE: Maps that are created from folium are not displayed in jupyter notebook. I provide links to them as static images.
+
+
 ## &#x1F4D9; Pandas Tutorial
 
 Are you starting with Data Science? Pandas is perhaps the first best thing you will need. And it's really easy!
@@ -44,7 +61,7 @@ Python code on how to transform nominal and ordinal variables to integers.
 - Ordinal Encoding with LabelEncoder, Panda's Factorize, and Panda's Map
 - Nominal Encoding with One-Hot Encoding and Binary Encoding
 
-## &#x1F4D9; Visualizations with Seaborn
+## :bar_chart: Visualizations with Seaborn
 
 Every plot that *seaborn* provides is here with examples in a real dataset.
 
