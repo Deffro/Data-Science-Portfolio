@@ -38,7 +38,7 @@ After reading (and practising) [this](https://github.com/Deffro/Data-Science-Por
 - Sort and group data
 - Manipulate data
 
-## &#x1F4D9; Normalization and Standardization
+## :straight_ruler: Normalization and Standardization
 
 Normalization/standardization are designed to achieve a similar goal, which is to create features that have similar ranges to each other and are widely used in data analysis to help the programmer to get some clue out of the raw data.
 
@@ -52,7 +52,7 @@ Normalization/standardization are designed to achieve a similar goal, which is t
 - When to use and when not
 - Python code for Simple Feature Scaling, Min-Max, Z-score, log1p transformation
 
-## &#x1F4D9; Encoding Categorical Features
+## :wrench: Encoding Categorical Features
 
 Python code on how to transform nominal and ordinal variables to integers.
 
