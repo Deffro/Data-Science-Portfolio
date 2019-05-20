@@ -9,7 +9,7 @@ Below it is a summary of them.
 
 This is a very popular [kaggle kernel](https://www.kaggle.com/deffro/eda-is-fun) with more than 800 upvotes and 30.000 views, with which I won the **1st prize** for the best kernel in that Kaggle competition.
 
-## :house_with_garden: Cluster Neighborhoods
+## :house_with_garden: Clustering Neighborhoods
 
 [This](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Clustering%20Neighborhouds) is a project that aims to help practicing some technologies and Data Science.
 
