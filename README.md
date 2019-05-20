@@ -11,7 +11,7 @@ This is a very popular [kaggle kernel](https://www.kaggle.com/deffro/eda-is-fun)
 
 ## :house_with_garden: Cluster Neighborhoods
 
-[This](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Cluster%20Neighborhoods.ipynb) is a project that aims to help practicing some technologies and Data Science.
+[This](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Clustering%20Neighborhouds) is a project that aims to help practicing some technologies and Data Science.
 
 Let's suppose that you live in Toronto, Canada (you can do this for every city that has enough data) and you found a better job. This job is located in the other side of the city and you decide that you need to re-locate closer. You really like your neighborhood though, and you want to find a similar one.
 
