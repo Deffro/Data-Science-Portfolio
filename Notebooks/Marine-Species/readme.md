@@ -4,4 +4,7 @@ This project includes Python code for **web scrapping** data of two similar webs
 
 After the collection of data, an [exploratory data analysis](https://nbviewer.jupyter.org/github/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Marine-Species/2.%20Marine%20Species%20Analysis.ipynb) is made (work in progress).
 
-Finally (data not available in the repository), an [exploratory data analysis](https://nbviewer.jupyter.org/github/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Marine-Species/3.%20Analysis%20of%2016%20Fish%20Species.ipynb) is made for a series of datasets concerning observation points for 16 marine species (work in progress).
+An [exploratory data analysis](https://nbviewer.jupyter.org/github/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Marine-Species/3.%20Analysis%20of%2016%20Fish%20Species.ipynb) is made for a series of datasets (data not available in the repository) concerning observation points for 16 marine species (work in progress).
+
+Exploratory Data Analysis for each of the 16 species:
+- [Sardina Pilchardus](https://nbviewer.jupyter.org/github/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Marine-Species/4.%20Species%20Analysis%20-%20Sardina%20Pilchardus.ipynb)
