@@ -8,3 +8,4 @@ An [exploratory data analysis](https://nbviewer.jupyter.org/github/Deffro/Data-S
 
 Exploratory Data Analysis for each of the 16 species:
 - [Sardina Pilchardus](https://nbviewer.jupyter.org/github/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Marine-Species/4.%20Species%20Analysis%20-%20Sardina%20Pilchardus.ipynb)
+- [Engraulis Encrasicolus](https://nbviewer.jupyter.org/github/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Marine-Species/4.%20Species%20Analysis%20-%20Engraulis%20Encrasicolus.ipynb)
