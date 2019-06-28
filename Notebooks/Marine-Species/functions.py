@@ -154,7 +154,7 @@ def plot_map(df,variable,title,saveFig=False):
             np.min(lons)-zoom_scale,np.max(lons)+zoom_scale]
 
     fig, ax = plt.subplots(figsize=(20,10))
-    ax.set_title(title, fontsize = 20, loc='center')
+    ax.set_title(title, fontsize = 24, loc='center')
     matplotlib.rcParams.update({'font.size': 14})
     # Define the projection, scale, the corners of the map, and the resolution.
     m = Basemap(projection='cyl',llcrnrlat=29.75,urcrnrlat=46.25, llcrnrlon=-6,urcrnrlon=36.5,lat_ts=10,resolution='h')
