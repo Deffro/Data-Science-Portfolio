@@ -75,4 +75,4 @@ Every plot that *seaborn* provides is here with examples in a real dataset.
 
 ## :clock1030: Feature Engineering with Dates
 
-In [this](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Feature%20Engineering%20with%20Dates.ipynb) tutorial I present the datetime format that Pandas provides to handle datetime features. In the end I create a function that generates 23 features from a single one.
+In [this](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Feature-Engineering-with-Dates.ipynb) tutorial I present the datetime format that Pandas provides to handle datetime features. In the end I create a function that generates 23 features from a single one.
