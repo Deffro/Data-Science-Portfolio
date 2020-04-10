@@ -3,6 +3,8 @@
 This portfolio is a compilation of notebooks which I created for Data Science related tasks like Tutorials, Exploratory Data Analysis, and Machine Learning.
 More notebooks will be added as I learn things and devote time to write about them.
 
+Visit [my website](https://deffro.github.io/), where I include everything listed here and much more.
+
 Below it is a summary of them.
 
 ## :fire: Exploratory Data Analysis for the popular Battle Royale game PUBG
@@ -73,4 +75,4 @@ Every plot that *seaborn* provides is here with examples in a real dataset.
 
 ## :clock1030: Feature Engineering with Dates
 
-In [this](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Feature%20Engineering%20with%20Dates.ipynb) tutorial I present the datetime format that Pandas provides to handle datetime features. In the end I create a function that generates 23 features from a single one.
+In [this](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Feature-Engineering-with-Dates.ipynb) tutorial I present the datetime format that Pandas provides to handle datetime features. In the end I create a function that generates 23 features from a single one.
