@@ -3,7 +3,7 @@
 This portfolio is a compilation of notebooks which I created for Data Science related tasks like Tutorials, Exploratory Data Analysis, and Machine Learning.
 More notebooks will be added as I learn things and devote time to write about them.
 
-Visit [my website](https://deffro.github.io/), where I include everything listed here and much more.
+Visit [my website](https://deffro.github.io/) or my [Medium](https://medium.com/@dimitris.effrosynidis) profile, where I include everything listed here and much more.
 
 Below it is a summary of them.
 
