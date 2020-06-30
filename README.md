@@ -7,9 +7,38 @@ Visit [my website](https://deffro.github.io/), where I include everything listed
 
 Below it is a summary of them.
 
+## :mag_right: Outlier Detection — Theory, Visualizations, and Code
+
+The [article](https://towardsdatascience.com/outlier-detection-theory-visualizations-and-code-a4fd39de540c) is available on Towards Data Science and the code is located [here](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Outlier%20Detection/Outlier%20Detection%20-%20Theory%2C%20Visualizations%20and%20Code.ipynb).
+
+1. What is Outlier Detection?
+2. Causes
+3. Applications
+4. Approaches
+5. Taxonomy
+6. Algorithms - Isolation Forest, Extended Isolation Forest, Local Outlier Factor, DBSCAN, One Class SVM, Ensemble
+
 ## :fire: Exploratory Data Analysis for the popular Battle Royale game PUBG
 
 This is a very popular [kaggle kernel](https://www.kaggle.com/deffro/eda-is-fun) with more than 800 upvotes and 30.000 views, with which I won the **1st prize** for the best kernel in that Kaggle competition.
+
+## :clock930: Time Series Analysis with Theory, Plots, and Code
+
+Two articles on Towards Data Science ([Part 1](https://towardsdatascience.com/time-series-analysis-with-theory-plots-and-code-part-1-dd3ea417d8c4), [Part 2](https://towardsdatascience.com/time-series-analysis-with-theory-plots-and-code-part-2-c72b447da634)). Code is available [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Time%20Series%20Analysis%20and%20Forecasting).
+
+1. What is a Time Series?
+2. The Basic Steps in a Forecasting Task
+3. Time Series Graphics (Time Plot, Seasonal Plot, Seasoonal Subseries Plot, Lag Scatter Plot)
+4. Time Series Components
+5. Stationarity
+6. Autocorrelation
+7. Moving Average, Double and Triple Exponential Smoothing
+
+## :boom: Forecasting Wars: Classical Forecasting Methods vs Machine Learning
+
+The task is to forecast, as precisely as possible, the unit sales (demand) of various products sold in the USA by Walmart. Competitors: Simple Exponential Smoothing, Double Exponential Smoothing, Triple Exponential Smoothing, ARIMA, SARIMA, SARIMAX, Light Gradient Boosting, Random Forest, Linear Regression.
+
+The [article](https://towardsdatascience.com/forecasting-wars-classical-forecasting-methods-vs-machine-learning-4fd5d2ceb716) is available on Towards Data Science and the code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/10%2B1%20Cross%20Validation%20Techniques%20Visualized).
 
 ## :house_with_garden: Clustering Neighborhoods
 
