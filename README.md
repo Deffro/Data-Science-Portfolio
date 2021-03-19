@@ -7,6 +7,14 @@ Visit [my website](https://deffro.github.io/) or my [Medium](https://medium.com/
 
 Below it is a summary of them.
 
+## :movie_camera: Topic Modeling on my Watched Movies
+
+The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Topic%20Modelling%20on%20my%20Watched%20Movies).
+
+1. Use Wikipedia to grab movies and more specifically their Summaries and Plots
+2. Merge IMDb data with Wikipedia
+3. Build, Evaluate and Visualize an LDA model
+
 ## :mag_right: Outlier Detection — Theory, Visualizations, and Code
 
 The [article](https://towardsdatascience.com/outlier-detection-theory-visualizations-and-code-a4fd39de540c) is available on Towards Data Science and the code is located [here](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Outlier%20Detection/Outlier%20Detection%20-%20Theory%2C%20Visualizations%20and%20Code.ipynb).
