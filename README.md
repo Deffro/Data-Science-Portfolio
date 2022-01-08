@@ -9,7 +9,7 @@ Below it is a summary of them.
 
 ## :movie_camera: Topic Modeling on my Watched Movies
 
-The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Topic%20Modelling%20on%20my%20Watched%20Movies).
+The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Topic%20Modelling%20on%20my%20Watched%20Movies) and the related article [here](https://medium.com/analytics-vidhya/topic-modeling-on-my-watched-movies-1d17491803b4).
 
 1. Use Wikipedia to grab movies and more specifically their Summaries and Plots
 2. Merge IMDb data with Wikipedia
