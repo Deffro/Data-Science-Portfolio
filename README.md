@@ -28,7 +28,7 @@ The [article](https://towardsdatascience.com/outlier-detection-theory-visualizat
 
 ## :fire: Exploratory Data Analysis for the popular Battle Royale game PUBG
 
-This is a very popular [kaggle kernel](https://www.kaggle.com/deffro/eda-is-fun) with more than 1200 upvotes and 70.000 views, with which I won the **1st prize** for the best kernel in that Kaggle competition.
+This is a very popular [kaggle kernel](https://www.kaggle.com/deffro/eda-is-fun) with more than 1250 upvotes and 80.000 views, with which I won the **1st prize** for the best kernel in that Kaggle competition.
 
 ## :clock930: Time Series Analysis with Theory, Plots, and Code
 
