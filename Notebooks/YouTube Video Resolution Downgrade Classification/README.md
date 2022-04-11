@@ -1,0 +1,1 @@
+Notebook on [nbviewer](https://nbviewer.org/github/Deffro/Data-Science-Portfolio/blob/master/Notebooks/YouTube%20Video%20Resolution%20Downgrade%20Classification/Youtube%20Video%20Resolution%20Downgrade%20Classification.ipynb).
