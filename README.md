@@ -7,6 +7,17 @@ Visit [my website](https://deffro.github.io/) or my [Medium](https://medium.com/
 
 Below it is a summary of them.
 
+## :computer: YouTube Video Resolution Downgrade Classification
+
+The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/YouTube%20Video%20Resolution%20Downgrade%20Classification)
+
+1. Binary Classification on data with varying number of features
+2. Visualize, Analyze and understand data
+3. Engineer new features
+4. Try 8 approaches create a model for classification
+5. Perform Ensemble Feature Selection
+6. Explain features with SHAP
+
 ## :movie_camera: Topic Modeling on my Watched Movies
 
 The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Topic%20Modelling%20on%20my%20Watched%20Movies) and the related article [here](https://medium.com/analytics-vidhya/topic-modeling-on-my-watched-movies-1d17491803b4).
