@@ -16,7 +16,7 @@ The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree
 3. Engineer new features
 4. Try 8 approaches create a model for classification
 5. Perform Ensemble Feature Selection
-6. Explain features with SHAP
+6. Explain feature importance with SHAP
 
 ## :movie_camera: Topic Modeling on my Watched Movies
 
