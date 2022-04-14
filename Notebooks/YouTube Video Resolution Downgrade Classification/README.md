@@ -3,6 +3,6 @@ Notebook on [nbviewer](https://nbviewer.org/github/Deffro/Data-Science-Portfolio
 1. Binary Classification on data with varying number of features
 2. Visualize, Analyze and understand data
 3. Engineer new features
-4. Try 8 approaches create a model for classification
+4. Try 8 approaches to create a model for classification
 5. Perform Ensemble Feature Selection
 6. Explain feature importance with SHAP
