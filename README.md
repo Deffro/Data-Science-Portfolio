@@ -70,7 +70,7 @@ Things that were used
 
 Are you starting with Data Science? Pandas is perhaps the first best thing you will need. And it's really easy!
 
-After reading (and practising) [this](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/PandasTutorial.ipynb) tutorial you will learn how to:
+After reading (and practising) [this](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Pandas%20Tutorial/PandasTutorial.ipynb) tutorial you will learn how to:
 
 - Create, add, remove and rename columns
 - Read, select and filter data
@@ -82,7 +82,7 @@ After reading (and practising) [this](https://github.com/Deffro/Data-Science-Por
 
 Normalization/standardization are designed to achieve a similar goal, which is to create features that have similar ranges to each other and are widely used in data analysis to help the programmer to get some clue out of the raw data.
 
-[This](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Normalization-Standardization.ipynb) notebook includes:
+[This](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Normalization-Standardization/Normalization-Standardization.ipynb) notebook includes:
 
 - Normalization
 - Why normalize?
@@ -96,7 +96,7 @@ Normalization/standardization are designed to achieve a similar goal, which is t
 
 Python code on how to transform nominal and ordinal variables to integers.
 
-[This](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Encoding%20Categorical%20Features.ipynb) Notebook includes:
+[This](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Encoding%20Categorical%20Features/Encoding%20Categorical%20Features.ipynb) Notebook includes:
 
 - Ordinal Encoding with LabelEncoder, Panda's Factorize, and Panda's Map
 - Nominal Encoding with One-Hot Encoding and Binary Encoding
@@ -105,7 +105,7 @@ Python code on how to transform nominal and ordinal variables to integers.
 
 Every plot that *seaborn* provides is here with examples in a real dataset.
 
-[This](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Visualizations%20with%20Seaborn.ipynb) notebook includes:
+[This](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Visualizations%20with%20Seaborn/Visualizations%20with%20Seaborn.ipynb) notebook includes:
 - Theory on Skewness and Kurtosis
 - Univariate plots. [Histogram, KDE, Box plot, Count plot, Pie chart]
 - Bivariate plots. [Scatter plot, Join plot, Reg plot, KDE plot, Hex plot, Line plot, Bar plot, Violin plot, Boxen plot, Strip plot]
@@ -113,4 +113,4 @@ Every plot that *seaborn* provides is here with examples in a real dataset.
 
 ## :clock1030: Feature Engineering with Dates
 
-In [this](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Feature-Engineering-with-Dates.ipynb) tutorial I present the datetime format that Pandas provides to handle datetime features. In the end I create a function that generates 23 features from a single one.
+In [this](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Feature%20Engineering%20with%20Dates/Feature-Engineering-with-Dates.ipynb) tutorial I present the datetime format that Pandas provides to handle datetime features. In the end I create a function that generates 23 features from a single one.
