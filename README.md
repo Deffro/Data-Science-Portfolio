@@ -7,6 +7,43 @@ Visit [my website](https://deffro.github.io/) or my [Medium](https://medium.com/
 
 Below is a summary of them.
 
+## 🤖 Mastering LLM Interactions
+
+The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/Mastering%20LLM%20Interactions).
+
+How to optimize, guide, and control language models for precise, efficient, and application-ready outputs.
+
+## Highlights:
+
+### **1. Advanced Prompt Engineering**
+
+This project showcases how advanced prompt engineering techniques can transform model outputs:
+
+- **Role-based instructions**: Utilize multi-component prompts with clear roles (`user`, `assistant`, `system`) for context-rich conversations.
+- **Structured outputs**: Create JSON responses using advanced prompts for tasks like creating Pokémon representations for real-world companies.
+
+### **2. Grammar-Constrained Sampling**
+
+Controlling the randomness and structure of outputs is key in generative AI:
+
+- **Grammar enforcement**: Generate and validate JSON outputs directly using grammar-constrained sampling.
+- **Applications**: Ensure output reliability for tasks such as data generation, sentiment classification, and domain-specific profiles.
+
+### **3. Quantized Model Optimization**
+
+Efficiency meets performance through quantized models:
+
+- **Reduced memory footprint**: Leverage LLaMA’s quantized models (e.g., Q2, Q6, fp16) for efficient resource utilization.
+- **Scalability**: Run large models on limited hardware without compromising accuracy.
+- **Custom configurations**: Experiment with precision levels to balance speed, accuracy, and computational cost.
+
+### **4. In-Context Learning**
+
+Improve model comprehension and output relevance with in-context learning:
+
+- **Zero-shot, one-shot, and few-shot examples**: Demonstrate tasks directly within prompts for enhanced accuracy.
+- **Real-world applications**: Use contextual examples to generate creative and structured results for niche domains.
+
 ## 🤖 Traditional vs. Generative AI for Sentiment Classification
 
 The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/Traditional%20vs.%20Generative%20AI%20for%20Sentiment%20Classification).
@@ -16,10 +53,12 @@ In this project, I compare **traditional sentiment analysis methods** with **cut
 ### Highlights:
 
 1. **Dataset**:
+
    - Worked with the **Flipkart Customer Review dataset** to classify reviews as positive or negative.
    - Excluded neutral reviews (3-star ratings) to focus on clear sentiment polarities.
 
 2. **Methods Explored**:
+
    - **Logistic Regression with TF-IDF**: A lightweight and interpretable baseline approach.
    - **Logistic Regression with Pretrained Embeddings**: Leveraging advanced models like `all-MiniLM-L6-v2` for semantic feature extraction.
    - **Zero-Shot Classification**: Using embeddings and cosine similarity to classify reviews without labeled data.
@@ -29,7 +68,6 @@ In this project, I compare **traditional sentiment analysis methods** with **cut
 3. **Performance Evaluation**:
    - Compared methods based on **accuracy**, **F1-score**, computational cost, and the need for labeled data.
    - Highlighted trade-offs between traditional and modern approaches.
-
 
 ## :movie_camera: Topic Modeling on my Watched Movies
 
@@ -88,7 +126,6 @@ Things that were used
 4. **Scikit Learn** - Machine learning package in order to use clustering
 5. **Folium** - Package to create spatial maps. NOTE: Maps that are created from folium are not displayed in jupyter notebook. I provide links to them as static images.
 
-
 ## &#x1F4D9; Pandas Tutorial
 
 Are you starting with Data Science? Pandas is perhaps the first best thing you will need. And it's really easy!
@@ -126,9 +163,10 @@ Python code on how to transform nominal and ordinal variables to integers.
 
 ## :bar_chart: Visualizations with Seaborn
 
-Every plot that *seaborn* provides is here with examples in a real dataset.
+Every plot that _seaborn_ provides is here with examples in a real dataset.
 
 [This](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Visualizations%20with%20Seaborn/Visualizations%20with%20Seaborn.ipynb) notebook includes:
+
 - Theory on Skewness and Kurtosis
 - Univariate plots. [Histogram, KDE, Box plot, Count plot, Pie chart]
 - Bivariate plots. [Scatter plot, Join plot, Reg plot, KDE plot, Hex plot, Line plot, Bar plot, Violin plot, Boxen plot, Strip plot]
