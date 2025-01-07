@@ -5,7 +5,30 @@ More notebooks will be added as I learn things and devote time to write about th
 
 Visit [my website](https://deffro.github.io/) or my [Medium](https://medium.com/@dimitris.effrosynidis) profile, where I include everything listed here and much more.
 
-Below it is a summary of them.
+Below is a summary of them.
+
+## 🤖 Traditional vs. Generative AI for Sentiment Classification
+
+The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/Traditional%20vs.%20Generative%20AI%20for%20Sentiment%20Classification).
+
+In this project, I compare **traditional sentiment analysis methods** with **cutting-edge generative AI models** to classify product reviews. The full project details, including code and evaluation metrics, are available in the accompanying article.
+
+### Highlights:
+
+1. **Dataset**:
+   - Worked with the **Flipkart Customer Review dataset** to classify reviews as positive or negative.
+   - Excluded neutral reviews (3-star ratings) to focus on clear sentiment polarities.
+
+2. **Methods Explored**:
+   - **Logistic Regression with TF-IDF**: A lightweight and interpretable baseline approach.
+   - **Logistic Regression with Pretrained Embeddings**: Leveraging advanced models like `all-MiniLM-L6-v2` for semantic feature extraction.
+   - **Zero-Shot Classification**: Using embeddings and cosine similarity to classify reviews without labeled data.
+   - **Generative AI (Flan-T5)**: Fine-tuned generative models to generate sentiment labels based on prompts.
+   - **Task-Specific Models**: Employing fine-tuned models like `juliensimon/reviews-sentiment-analysis` for domain-specific performance.
+
+3. **Performance Evaluation**:
+   - Compared methods based on **accuracy**, **F1-score**, computational cost, and the need for labeled data.
+   - Highlighted trade-offs between traditional and modern approaches.
 
 
 ## :movie_camera: Topic Modeling on my Watched Movies
