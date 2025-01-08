@@ -7,7 +7,35 @@ Visit [my website](https://deffro.github.io/) or my [Medium](https://medium.com/
 
 Below is a summary of them.
 
-## 🤖 Mastering LLM Interactions
+## 🔍 How to do the "Retrieval" in Retrieval-Augmented Generation (RAG)
+
+The code is located [here](<https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/How%20to%20do%20the%20Retrieval%20in%20Retrieval%20Augmented%20Generation%20(RAG)>).
+
+Learn how to efficiently retrieve and rank text to power state-of-the-art RAG systems, enabling context-aware AI applications like chatbots and document search.
+
+## Highlights:
+
+### **1. Dense Retrieval**
+
+- Use SentenceTransformers (`all-mpnet-base-v2`) to embed text chunks as 768-dimensional vectors.
+- Leverage FAISS for efficient similarity search and fast retrieval.
+
+### **2. Context-Preserving Chunks**
+
+- Implement overlapping chunks to maintain continuity and relevance.
+- Ideal for narratives or technical documents requiring interdependent context.
+
+### **3. BM25 Lexical Search**
+
+- Rank documents using efficient keyword-based search for initial filtering.
+- Combine with dense retrieval or reranking for improved precision.
+
+### **4. Transformer-Based Reranking**
+
+- Use Hugging Face cross-encoders to rank query-document pairs by semantic relevance.
+- Achieve context-aware retrieval with hybrid BM25 and reranking pipelines.
+
+## 🥷 Mastering LLM Interactions
 
 The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/Mastering%20LLM%20Interactions).
 
