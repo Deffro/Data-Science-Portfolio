@@ -7,6 +7,39 @@ Visit [my website](https://deffro.github.io/) or my [Medium](https://medium.com/
 
 Below is a summary of them.
 
+## 📖 How to Create a RAG System Step-by-Step
+
+The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/How%20to%20create%20a%20RAG%20system%20step-by-step).
+
+Build a Retrieval-Augmented Generation (RAG) system to combine retrieval and generation capabilities, enabling precise, context-aware AI solutions for applications like chatbots, search engines, and document summarization.
+
+## Highlights:
+
+### **1. Data Preparation and Chunking**
+
+- Fetch real-world data (e.g., NVIDIA's latest 10-K filing from SEC).
+- Split the text into overlapping chunks to ensure context and continuity are preserved.
+
+### **2. Embedding the Data**
+
+- Use SentenceTransformers (`all-mpnet-base-v2`) to create 768-dimensional semantic embeddings for each chunk.
+- Capture meaningful relationships between query and text data.
+
+### **3. Indexing with FAISS**
+
+- Store embeddings in FAISS, a high-speed vector similarity search library.
+- Enable fast and scalable similarity-based searches across large datasets.
+
+### **4. Retrieval of Relevant Chunks**
+
+- Implement a retrieval pipeline that queries the FAISS index to return the most contextually relevant chunks.
+- Efficiently handle user queries with top-k nearest neighbor search.
+
+### **5. Grounded Generation with an LLM**
+
+- Use a Hugging Face transformer model (e.g., Qwen2.5-1.5B-Instruct) for generating grounded answers.
+- Design prompts with context and user queries to ensure accurate and factual responses.
+
 ## 🔍 How to do the "Retrieval" in Retrieval-Augmented Generation (RAG)
 
 The code is located [here](<https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/How%20to%20do%20the%20Retrieval%20in%20Retrieval%20Augmented%20Generation%20(RAG)>).
