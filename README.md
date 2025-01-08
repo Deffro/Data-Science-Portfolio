@@ -74,7 +74,7 @@ Improve model comprehension and output relevance with in-context learning:
 
 ## 🤖 Traditional vs. Generative AI for Sentiment Classification
 
-The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/Traditional%20vs.%20Generative%20AI%20for%20Sentiment%20Classification).
+The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/Traditional%20vs.%20Generative%20AI%20for%20Sentiment%20Classification) and the related article [here](https://medium.com/towards-artificial-intelligence/traditional-vs-generative-ai-for-sentiment-classification-0195b7cc0a0d).
 
 In this project, I compare **traditional sentiment analysis methods** with **cutting-edge generative AI models** to classify product reviews. The full project details, including code and evaluation metrics, are available in the accompanying article.
 
