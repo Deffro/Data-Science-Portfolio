@@ -1,13 +1,13 @@
 # Data Science Portfolio by Dimitrios Effrosynidis
 
-Α compilation of notebooks I created for Data Science related tasks like Tutorials, Exploratory Data Analysis, and Machine Learning.
+Α compilation of notebooks I created for Data Science related tasks like Tutorials, Generative AI, Exploratory Data Analysis, and Machine Learning.
 More notebooks will be added as I learn things and devote time to write about them.
 
 Visit [my website](https://deffro.github.io/) or my [Medium](https://medium.com/@dimitris.effrosynidis) profile, where I include everything listed here and much more.
 
 Below is a summary of them.
 
-## :wrench: Fine-Tuning a Pre-trained LLM for Sentiment Classification
+# :wrench: Fine-Tuning a Pre-trained LLM for Sentiment Classification
 
 The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/Fine-Tuning%20a%20Pre-trained%20LLM%20for%20Sentiment%20Classification).
 
@@ -24,7 +24,7 @@ The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree
 - Train the Model: Fine-tune the pre-trained model using the Hugging Face `Trainer` API.
 - Evaluation: Test the fine-tuned model, achieving an improved accuracy of 89%.
 
-## 📖 How to Create a RAG System Step-by-Step
+# 📖 How to Create a RAG System Step-by-Step
 
 The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/How%20to%20create%20a%20RAG%20system%20step-by-step).
 
@@ -57,7 +57,7 @@ Build a Retrieval-Augmented Generation (RAG) system to combine retrieval and gen
 - Use a Hugging Face transformer model (e.g., Qwen2.5-1.5B-Instruct) for generating grounded answers.
 - Design prompts with context and user queries to ensure accurate and factual responses.
 
-## 🔍 How to do the "Retrieval" in Retrieval-Augmented Generation (RAG)
+# 🔍 How to do the "Retrieval" in Retrieval-Augmented Generation (RAG)
 
 The code is located [here](<https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/How%20to%20do%20the%20Retrieval%20in%20Retrieval%20Augmented%20Generation%20(RAG)>).
 
@@ -85,7 +85,7 @@ Learn how to efficiently retrieve and rank text to power state-of-the-art RAG sy
 - Use Hugging Face cross-encoders to rank query-document pairs by semantic relevance.
 - Achieve context-aware retrieval with hybrid BM25 and reranking pipelines.
 
-## 🥷 Mastering LLM Interactions
+# 🥷 Mastering LLM Interactions
 
 The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/Mastering%20LLM%20Interactions).
 
@@ -122,7 +122,7 @@ Improve model comprehension and output relevance with in-context learning:
 - **Zero-shot, one-shot, and few-shot examples**: Demonstrate tasks directly within prompts for enhanced accuracy.
 - **Real-world applications**: Use contextual examples to generate creative and structured results for niche domains.
 
-## 🤖 Traditional vs. Generative AI for Sentiment Classification
+# 🤖 Traditional vs. Generative AI for Sentiment Classification
 
 The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/Traditional%20vs.%20Generative%20AI%20for%20Sentiment%20Classification) and the related article [here](https://medium.com/towards-artificial-intelligence/traditional-vs-generative-ai-for-sentiment-classification-0195b7cc0a0d).
 
@@ -147,7 +147,7 @@ In this project, I compare **traditional sentiment analysis methods** with **cut
    - Compared methods based on **accuracy**, **F1-score**, computational cost, and the need for labeled data.
    - Highlighted trade-offs between traditional and modern approaches.
 
-## :movie_camera: Topic Modeling on my Watched Movies
+# :movie_camera: Topic Modeling on my Watched Movies
 
 The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Topic%20Modelling%20on%20my%20Watched%20Movies) and the related article [here](https://medium.com/analytics-vidhya/topic-modeling-on-my-watched-movies-1d17491803b4).
 
@@ -155,7 +155,7 @@ The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree
 2. Merge IMDb data with Wikipedia
 3. Build, Evaluate and Visualize an LDA model
 
-## :mag_right: Outlier Detection — Theory, Visualizations, and Code
+# :mag_right: Outlier Detection — Theory, Visualizations, and Code
 
 The [article](https://towardsdatascience.com/outlier-detection-theory-visualizations-and-code-a4fd39de540c) is available on Towards Data Science and the code is located [here](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Outlier%20Detection/Outlier%20Detection%20-%20Theory%2C%20Visualizations%20and%20Code.ipynb).
 
@@ -166,11 +166,11 @@ The [article](https://towardsdatascience.com/outlier-detection-theory-visualizat
 5. Taxonomy
 6. Algorithms - Isolation Forest, Extended Isolation Forest, Local Outlier Factor, DBSCAN, One Class SVM, Ensemble
 
-## :fire: Exploratory Data Analysis for the popular Battle Royale game PUBG
+# :fire: Exploratory Data Analysis for the popular Battle Royale game PUBG
 
 This is a very popular [kaggle kernel](https://www.kaggle.com/deffro/eda-is-fun) with more than 1250 upvotes and 80.000 views, with which I won the **1st prize** for the best kernel in that Kaggle competition.
 
-## :clock930: Time Series Analysis with Theory, Plots, and Code
+# :clock930: Time Series Analysis with Theory, Plots, and Code
 
 Two articles on Towards Data Science ([Part 1](https://towardsdatascience.com/time-series-analysis-with-theory-plots-and-code-part-1-dd3ea417d8c4), [Part 2](https://towardsdatascience.com/time-series-analysis-with-theory-plots-and-code-part-2-c72b447da634)). Code is available [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Time%20Series%20Analysis%20and%20Forecasting).
 
@@ -182,13 +182,13 @@ Two articles on Towards Data Science ([Part 1](https://towardsdatascience.com/ti
 6. Autocorrelation
 7. Moving Average, Double and Triple Exponential Smoothing
 
-## :boom: Forecasting Wars: Classical Forecasting Methods vs Machine Learning
+# :boom: Forecasting Wars: Classical Forecasting Methods vs Machine Learning
 
 The task is to forecast, as precisely as possible, the unit sales (demand) of various products sold in the USA by Walmart. Competitors: Simple Exponential Smoothing, Double Exponential Smoothing, Triple Exponential Smoothing, ARIMA, SARIMA, SARIMAX, Light Gradient Boosting, Random Forest, Linear Regression.
 
 The [article](https://towardsdatascience.com/forecasting-wars-classical-forecasting-methods-vs-machine-learning-4fd5d2ceb716) is available on Towards Data Science and the code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/10%2B1%20Cross%20Validation%20Techniques%20Visualized).
 
-## :house_with_garden: Clustering Neighborhoods
+# :house_with_garden: Clustering Neighborhoods
 
 [This](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Notebooks/Clustering%20Neighborhouds) is a project that aims to help practicing some technologies and Data Science.
 
@@ -204,7 +204,7 @@ Things that were used
 4. **Scikit Learn** - Machine learning package in order to use clustering
 5. **Folium** - Package to create spatial maps. NOTE: Maps that are created from folium are not displayed in jupyter notebook. I provide links to them as static images.
 
-## &#x1F4D9; Pandas Tutorial
+# &#x1F4D9; Pandas Tutorial
 
 Are you starting with Data Science? Pandas is perhaps the first best thing you will need. And it's really easy!
 
@@ -216,7 +216,7 @@ After reading (and practising) [this](https://github.com/Deffro/Data-Science-Por
 - Sort and group data
 - Manipulate data
 
-## :straight_ruler: Normalization and Standardization
+# :straight_ruler: Normalization and Standardization
 
 Normalization/standardization are designed to achieve a similar goal, which is to create features that have similar ranges to each other and are widely used in data analysis to help the programmer to get some clue out of the raw data.
 
@@ -230,7 +230,7 @@ Normalization/standardization are designed to achieve a similar goal, which is t
 - When to use and when not
 - Python code for Simple Feature Scaling, Min-Max, Z-score, log1p transformation
 
-## :wrench: Encoding Categorical Features
+# :wrench: Encoding Categorical Features
 
 Python code on how to transform nominal and ordinal variables to integers.
 
@@ -239,7 +239,7 @@ Python code on how to transform nominal and ordinal variables to integers.
 - Ordinal Encoding with LabelEncoder, Panda's Factorize, and Panda's Map
 - Nominal Encoding with One-Hot Encoding and Binary Encoding
 
-## :bar_chart: Visualizations with Seaborn
+# :bar_chart: Visualizations with Seaborn
 
 Every plot that _seaborn_ provides is here with examples in a real dataset.
 
@@ -250,6 +250,6 @@ Every plot that _seaborn_ provides is here with examples in a real dataset.
 - Bivariate plots. [Scatter plot, Join plot, Reg plot, KDE plot, Hex plot, Line plot, Bar plot, Violin plot, Boxen plot, Strip plot]
 - Multivariate plots. [Correlation Heatmap, Pair plot, Scatter plot, Line plot, Bar plot]
 
-## :clock1030: Feature Engineering with Dates
+# :clock1030: Feature Engineering with Dates
 
 In [this](https://github.com/Deffro/Data-Science-Portfolio/blob/master/Notebooks/Feature%20Engineering%20with%20Dates/Feature-Engineering-with-Dates.ipynb) tutorial I present the datetime format that Pandas provides to handle datetime features. In the end I create a function that generates 23 features from a single one.
