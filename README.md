@@ -7,6 +7,23 @@ Visit [my website](https://deffro.github.io/) or my [Medium](https://medium.com/
 
 Below is a summary of them.
 
+## :wrench: Fine-Tuning a Pre-trained LLM for Sentiment Classification
+
+The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/Fine-Tuning%20a%20Pre-trained%20LLM%20for%20Sentiment%20Classification).
+
+## Highlights:
+
+### **1. Task-Specific Model**
+
+- Use the pre-trained Hugging Face model `juliensimon/reviews-sentiment-analysis`, fine-tuned for sentiment classification.
+- Perform inference on the test set with the base model, achieving an accuracy of 79%.
+
+### **2. Fine-Tuning the Model**
+
+- Set Training Arguments: Configure hyperparameters like learning rate, batch size, and number of epochs.
+- Train the Model: Fine-tune the pre-trained model using the Hugging Face `Trainer` API.
+- Evaluation: Test the fine-tuned model, achieving an improved accuracy of 89%.
+
 ## 📖 How to Create a RAG System Step-by-Step
 
 The code is located [here](https://github.com/Deffro/Data-Science-Portfolio/tree/master/Generative%20AI/How%20to%20create%20a%20RAG%20system%20step-by-step).
